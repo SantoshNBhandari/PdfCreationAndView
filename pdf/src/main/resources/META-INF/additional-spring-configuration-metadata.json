@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "app.api.title",
+    "type": "java.lang.String",
+    "description": "A description for 'app.api.title'"
+  },
+  {
+    "name": "app.api.version",
+    "type": "java.lang.String",
+    "description": "A description for 'app.api.version'"
+  },
+  {
+    "name": "app.api.description",
+    "type": "java.lang.String",
+    "description": "A description for 'app.api.description'"
+  },
+  {
+    "name": "app.api.basePackage",
+    "type": "java.lang.String",
+    "description": "A description for 'app.api.basePackage'"
+  },
+  {
+    "name": "app.api.contactName",
+    "type": "java.lang.String",
+    "description": "A description for 'app.api.contactName'"
+  },
+  {
+    "name": "app.api.contactEmail",
+    "type": "java.lang.String",
+    "description": "A description for 'app.api.contactEmail'"
+  }
+]}
